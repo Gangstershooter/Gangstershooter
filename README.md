@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gangstershooter
+- 👋 Hi, I’m @Gangstershooter(Digvijay)
 - 👀 I’m interested in Python ,AI, Automation,AI agenta
 - 🌱 I’m currently learning Python,C++
 - 💞️ I’m looking to collaborate on  AI and ml, quant
